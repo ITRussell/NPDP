@@ -83,53 +83,53 @@ These features provide valuable information about network traffic between two en
 
     Logistic Regression: 
 
-    Precision: 0.84 
+         Precision: 0.84 
 
-    Recall: 0.75 
+         Recall: 0.75 
 
-    F1-score: 0.79 
+         F1-score: 0.79 
 
-    Accuracy: 0.83 
+         Accuracy: 0.83 
 
     Decision Tree: 
 
-    Precision: 0.92 
+         Precision: 0.92 
 
-    Recall: 0.92 
+         Recall: 0.92 
 
-    F1-score: 0.92 
+         F1-score: 0.92 
 
-    Accuracy: 0.92 
+         Accuracy: 0.92 
 
     Random Forest: 
 
-    Precision: 0.95 
+         Precision: 0.95 
 
-    Recall: 0.94 
+         Recall: 0.94 
 
-    F1-score: 0.94 
+         F1-score: 0.94 
 
-    Accuracy: 0.95 
+         Accuracy: 0.95 
 
     Support Vector Machine (SVM): 
 
-    Precision: 0.87 
+         Precision: 0.87 
 
-    Recall: 0.81 
+         Recall: 0.81 
 
-    F1-score: 0.84 
+         F1-score: 0.84 
 
-    Accuracy: 0.87 
+         Accuracy: 0.87 
 
     ThatDot Novelty Detector with Decision Tree Classification 
 
-    Precision: 0.85 
+         Precision: 0.85 
 
-    Recall: 0.87 
+         Recall: 0.87 
 
-    F1-score: 0.86 
+         F1-score: 0.86 
 
-    Accuracy: 0.87 
+         Accuracy: 0.87 
 
 In this study, we compared the performance of four classifiers (logistic regression, decision tree, random forest, and support vector machine) and the novelty detector (thatDot novelty detector with decision tree classification) on the UNSW_NB15 dataset. We used the training set and testing set that were provided by the dataset authors, which contain 175,341 and 82,332 records, respectively. We evaluated the classifiers and the novelty detector based on four metrics: precision, recall, F1-score, and accuracy. 
 
