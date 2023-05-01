@@ -1,0 +1,7 @@
+version: '3'
+services:
+  web:
+    image: thatdot/novelty:0.12.0
+    ports:
+      - "8080:8080"
+
